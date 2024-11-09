@@ -42,5 +42,5 @@ Given below is the expected output for **chroma keying**. Looking at the output,
 **Original Video**<br>
 ![Original](https://github.com/04092000f/Selfie-app/blob/main/greenscreen-demo.gif)
 
-**After Chroma Keying**
+**After Chroma Keying**<br>
 ![Chroma](https://github.com/04092000f/Selfie-app/blob/main/output.gif)
