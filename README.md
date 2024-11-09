@@ -36,5 +36,5 @@ Given below is the expected output for **blemish removal**. Looking at the outpu
 
 ### Feature 3: Chroma Keying
 
-This feature involves use of chroma keying (also known as “green screen” or “blue screen”) to remove a solid-colored background from images or videos and replace it with another background. Chroma keying is widely used in film, photography, and broadcasting to overlay different backgrounds seamlessly.
+This feature involves use of chroma keying (also known as “green screen” or “blue screen”) to remove a solid-colored background from images or videos and replace it with another background. Chroma keying is widely used in film, photography, and broadcasting to overlay different backgrounds seamlessly.<br>
 Given below is the expected output for **chroma keying**. Looking at the output, you should be able to figure out what processing can produce those results.
