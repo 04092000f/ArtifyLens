@@ -12,13 +12,13 @@ For the first feature, we have designed 2 instagram-like filters.
 1. **Pencil Sketch Filter** - This will generate a sketch of the given image as shown in the output below.
 2. **Cartoon Filter** - This should produce a cartoonified output of the input image.
 
-**Original Image**
+**Original Image**<br>
 ![Orignal Image](https://github.com/04092000f/Selfie-app/blob/main/trump.jpg)
 
-**Cartoonified Image**
+**Cartoonified Image**<br>
 ![Cartoonified Image](https://github.com/04092000f/Selfie-app/blob/main/cartoon.jpg)
 
-**Pencil Sketch**
+**Pencil Sketch**<br>
 ![Pencil Sketch](https://github.com/04092000f/Selfie-app/blob/main/sketch.png)
 
 
