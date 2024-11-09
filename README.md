@@ -27,10 +27,10 @@ For the first feature, we have designed 2 instagram-like filters.
 This feature involves the development of a blemish removal tool that processes images to remove blemishes or imperfections from facial or object surfaces.
 Given below is the expected output for **blemish removal**. Looking at the output, you should be able to figure out what processing can produce those results.
 
-**Original Image**
+**Original Image**<br>
 ![Original Image](https://github.com/04092000f/Selfie-app/blob/main/blemish.png)
 
-**After Blemish Removal**
+**After Blemish Removal**<br>
 ![Blemish Removal](https://github.com/04092000f/Selfie-app/blob/main/blemish_removed.png)
 
 
