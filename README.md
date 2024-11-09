@@ -24,7 +24,7 @@ For the first feature, we have designed 2 instagram-like filters.
 
 ### Feature 2: Blemish Removal
 
-This feature involves the development of a blemish removal tool that processes images to remove blemishes or imperfections from facial or object surfaces.
+This feature involves the development of a blemish removal tool that processes images to remove blemishes or imperfections from facial or object surfaces.<br>
 Given below is the expected output for **blemish removal**. Looking at the output, you should be able to figure out what processing can produce those results.
 
 **Original Image**<br>
