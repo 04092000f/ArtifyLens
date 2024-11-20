@@ -1,6 +1,6 @@
 # Selfie App
 
-In this Project, we have implemented parts of a selfie app. We have particularly implemented three features:
+In this Project, some parts of a selfie app have been implemented. particularly implemented three features have been implemented:
 
 ### Feature 1: Instagram Filters
 
