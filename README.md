@@ -1,6 +1,6 @@
-# Selfie App
+# ArtifyLens
 
-In this Project, some parts of a selfie app have been implemented. particularly implemented three features have been implemented:
+ArtifyLens is a project that has implementesome parts of a selfie app. Mainly three features have been implemented:
 
 ## Feature 1: Instagram Filters
 
