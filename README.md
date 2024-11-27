@@ -62,23 +62,26 @@ This feature involves the use of <code>chroma keying</code> (also known as <code
 #### How it Works
 
 - **Chroma Keying (Green Screen Removal):**
-    - The program removes a <code>green</code> background from a video and mask it with a new background image.
+    - Removes a green background from the video or image using color-based segmentation.
+    - The selected green area is masked with a custom background.
  
       
 - **Interactive Parameters:**
   - The user can adjust:
-    - **Tolerance:** Controls the range of <code>green</code> hues to be removed.
-    - **Softness:** Controls how <code>smooth</code> the edges of the removed green area will be.
-    - **Defringe:** Adjusts the <code>brightness</code> of the green channel to remove <code>fringes</code> around the edges of the object.
-
-- **Background Masking:**
-    - Foreground image is masked behind the new background once the green background is removed.
+`    - **Tolerance**: Adjusts the range of hues around the key color to be removed (e.g., shades of green).
+     - **Softness**: Smooths edges of the removed area to create a seamless blend with the new background.
+     - **Defringe**: Minimizes green color spill around object edges by adjusting channel brightness.
  
 - **Mouse Click Color Selection:**
-  - Users can click on the green area of the video to select the exact color to be removed. The selected color is used as a reference for removing the green background.
+  - Users can interactively select the key color (e.g., green) by clicking on the video or image.
+  - The system dynamically adjusts parameters to match the chosen color.
+ 
+- **Background Masking:**
+    - After removing the background, the foreground subject is masked over the new background.
+    - The new background can either be a static image or a video.
  
 - **Real-time Video Processing:**
-  - The video is processed frame by frame, and the green background is removed with the selected parameters.
+  - Videos are processed frame by frame for smooth real-time playback with the chroma key effect applied.
   
 - **Video Saving:**
   - After applying the effect, the user can save the processed video as <code>output.mp4</code>.
