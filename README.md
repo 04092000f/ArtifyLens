@@ -57,12 +57,12 @@ This feature involves the development of a <code>blemish removal</code> tool tha
 
 ### Feature 3: Chroma Keying
 
-This feature involves the use of <code>chroma keying</code> (also known as <code>green screen</code> or <code>blue screen</code>) to remove a <code>solid-colored</code> background from images or videos and replace it with another background.
+This feature involves the use of <code>chroma keying</code> (also known as <code>green screen</code> or <code>blue screen</code>) to remove a <code>solid-colored</code> background from images or videos and mask it with another background.
 
 #### How it Works
 
 - **Chroma Keying (Green Screen Removal):**
-    - The program removes a <code>green</code> background from a video and replaces it with a new background image.
+    - The program removes a <code>green</code> background from a video and mask it with a new background image.
  
       
 - **Interactive Parameters:**
@@ -71,8 +71,8 @@ This feature involves the use of <code>chroma keying</code> (also known as <code
     - **Softness:** Controls how <code>smooth</code> the edges of the removed green area will be.
     - **Defringe:** Adjusts the <code>brightness</code> of the green channel to remove <code>fringes</code> around the edges of the object.
 
-- **Background Replacement:**
-    - A new background image is added behind the foreground once the green background is removed.
+- **Background Masking:**
+    - Foreground image is masked behind the new background once the green background is removed.
  
 - **Mouse Click Color Selection:**
   - Users can click on the green area of the video to select the exact color to be removed. The selected color is used as a reference for removing the green background.
