@@ -67,7 +67,7 @@ This feature involves the use of <code>chroma keying</code> (also known as <code
  
       
 - **Interactive Parameters:**
-  - The user can adjust:
+  - The user can adjust:<br>
 `    - **Tolerance**: Adjusts the range of hues around the key color to be removed (e.g., shades of green).
      - **Softness**: Smooths edges of the removed area to create a seamless blend with the new background.
      - **Defringe**: Minimizes green color spill around object edges by adjusting channel brightness.
